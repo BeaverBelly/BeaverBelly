@@ -11,9 +11,15 @@
 
 Me interesa la educación informática, el desarrollo web y la creación de soluciones tecnológicas aplicadas al aprendizaje.
 
-## Tecnologías
+<div align = center>
+	
+<h2>Tecnologías</h2>
+	
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,astro,bootstrap,java,kotlin,cpp)](https://skillicons.dev)
 
-HTML · CSS · JavaScript · PHP · Java · C++ · Kotlin · Astro · Git
+</div>
+
+
 
 ## Proyectos destacados
 
@@ -22,7 +28,7 @@ HTML · CSS · JavaScript · PHP · Java · C++ · Kotlin · Astro · Git
 - Aplicaciones de práctica
 
 
-<div align = center>
+<div align = "center">
   <p>
     <i>Pasa, contactame y deja tu saludo castor</i>
   </p>
