@@ -1,17 +1,18 @@
-<div align = center>
-  <h1> Hola, soy Emanuel Finozzi (Beaver Belly)</h1>
-  
-  <h2>Profesor de informática | Desarrollo web | Tecnología educativa</h2>
+<div align = "center">
+	<h1> Hola, soy Emanuel Finozzi</h1>
+	<h3>Profesor de informática | Desarrollo web | Tecnología educativa</h3>
+	<p><Strong>(Beaver Belly)</Strong></p>
 </div>
 
+<h2>Sobre mí</h2> 
+<ul>
+	<li>Me interesa la ciencía de la educación como medio impulsor de la educación</li>
+	<li>El desarrollo web</li>
+	<li>La creación de soluciones tecnológicas aplicadas al aprendizaje</li>
+	<li><i>Y por supuesto los castores</i></li>
+</ul>
 
-
-
-## Sobre mí
-
-Me interesa la educación informática, el desarrollo web y la creación de soluciones tecnológicas aplicadas al aprendizaje.
-
-<div align = center>
+<div align = "center">
 	
 <h2>Tecnologías</h2>
 	
@@ -21,21 +22,26 @@ Me interesa la educación informática, el desarrollo web y la creación de solu
 
 
 
-## Proyectos destacados
+<!--## Proyectos destacados
 
 - Portafolio personal
 - Actividades educativas
 - Aplicaciones de práctica
-
+-->
+<br></br>
+<!--<h2>Ayuda a un castor</H2>-->
 
 <div align = "center">
-  <p>
-    <i>Pasa, contactame y deja tu saludo castor</i>
-  </p>
-  <p>  
-  	<a target= "_blank" href="https://www.instagram.com/ema._.fin/" ><img height='45' alt="Instagram" src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
-  	<a target= "_blank" href="https://www.linkedin.com/in/emanuel-finozzi-moreira/" ><img height='45' alt="LinkedIn" src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/linkedin_icon.png"></a>
-  	<a target= "_blank" href="#" ><img height='45' alt="twitter" src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Twitter.png"></a>
-		<a>colocar Youtube</a>
-  </p>
+	<p>
+    	<h2><i>Pasá, contactame y dejá tu "saludo castor"</i></h2>
+  	</p>
+	
+<p>  
+	<a href="https://www.instagram.com/ema._.fin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/emanuel-finozzi-moreira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://x.com/BeaverBellyX"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+	<a href="https://discord.com/users/1346103261588881499"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+	<a href="https://www.youtube.com/@Beaver_BellyX"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+    
 </div>
