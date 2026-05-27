@@ -4,12 +4,15 @@
 	<p><Strong>(Beaver Belly)</Strong></p>
 </div>
 
-<h2>Sobre mí</h2> 
+<div align = "center">
+	<h2>Sobre mí</h2>	
+</div>
+ 
 <ul>
-	<li>Me interesa la ciencía de la educación como medio impulsor de la educación</li>
-	<li>El desarrollo web</li>
+	<li>Me interesa la ciencia de la educación como medio para impulsar mejores procesos de enseñanza y aprendizaje.</li>
+	<li>El desarrollo web como medio de expresión personal</li>
 	<li>La creación de soluciones tecnológicas aplicadas al aprendizaje</li>
-	<li><i>Y por supuesto los castores</i></li>
+	<li><i>Y por supuesto los castores...</i></li>
 </ul>
 
 <div align = "center">
